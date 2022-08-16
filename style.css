@@ -1,11 +1,12 @@
-boby { 
-    background-color: lightsalmon;
+body {
+    background-color: lightblue;
+
 }
- h1{
-    color: black;
+h1 {
+    background-color: blue;
     font-size: 30px;
     text-align: center;
- }
+}
 p{
     font-size: 20px;
 }
